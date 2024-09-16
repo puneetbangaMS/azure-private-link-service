@@ -11,7 +11,7 @@ install=1
 
 # Name and location of the resource group for the Azure Kubernetes Service (AKS) cluster
 resourceGroupName="SampleRG"
-location="WestEurope"
+location="AustraliaEast"
 
 # Subscription id, subscription name, and tenant id of the current subscription
 subscriptionId=$(az account show --query id --output tsv)
